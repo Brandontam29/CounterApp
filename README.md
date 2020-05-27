@@ -1,3 +1,0 @@
-# CounterApp
-counts
-# CounterApp
